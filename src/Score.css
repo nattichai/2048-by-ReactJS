@@ -1,0 +1,11 @@
+.score {
+  width: 50%;
+  border-radius: 15px;
+  background-color: #bbada0;
+  color: #f9f6f2;
+  font-size: 30px;
+  font-weight: 500;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+}

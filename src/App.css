@@ -1,0 +1,16 @@
+.container {
+  width: 555px;
+  text-align: center;
+  margin: auto;
+}
+
+.top {
+  color: #776E65;
+  line-height: 80px;
+}
+
+.gameName {
+  margin: 0;
+  font-size: 100px;
+}
+

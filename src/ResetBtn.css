@@ -1,0 +1,10 @@
+.resetbtn {
+    width: 50%;
+    border-radius: 15px;
+    background: #776E65;
+    color: #f9f6f2;
+    font-size: 30px;
+    font-weight: 500;
+    margin: 0;
+    display: inline-block;
+}
